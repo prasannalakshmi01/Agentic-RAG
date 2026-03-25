@@ -30,6 +30,8 @@ Unlike traditional RAG pipelines, this system introduces **decision-making, self
 ---
 
 ## 📊 Architecture
+![Uploading image.png…]()
+
 
 ![Agentic RAG Architecture](architecture.png)
 
