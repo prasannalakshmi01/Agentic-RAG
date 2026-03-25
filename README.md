@@ -31,7 +31,7 @@ Unlike traditional RAG pipelines, this system introduces **decision-making, self
 
 ## 📊 Architecture
 
-RAG_Architeccture.png
+![Agentic RAG Architecture](RAG.Architeccture.png)
 
 The system follows an **agentic loop**:
 - Retrieve → Evaluate → Improve → Generate → Validate → Retry
