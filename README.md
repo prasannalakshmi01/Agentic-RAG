@@ -31,7 +31,6 @@ Unlike traditional RAG pipelines, this system introduces **decision-making, self
 
 ## 📊 Architecture
 
-![image](RAG_Architectcure.png)
 <img width="449" height="545" alt="image" src="https://github.com/user-attachments/assets/86c603c4-a883-4157-a2d0-910a44cde1b2" />
 
 
