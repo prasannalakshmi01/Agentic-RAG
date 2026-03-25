@@ -72,3 +72,8 @@ HUGGINGFACE_HUB_TOKEN=your_api_key_here
 ### 4. Add Input Document
 
 👉 Place your own PDF file in the project directory.
+
+### 5.5. Run the application
+``` bash
+streamlit run app.py
+```
